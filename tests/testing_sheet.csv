@@ -1,0 +1,17 @@
+Test Case,Input,Expected Result,Actual Result,Status
+Resume PDF Upload,Valid PDF resume,Resume should be uploaded and processed,Resume processed successfully,PASS
+Resume DOCX Upload,Valid DOCX resume,Resume should be uploaded and processed,Resume processed successfully,PASS
+Text Extraction,PDF/DOCX resume,Text should be extracted correctly,Text extracted correctly,PASS
+Skill Extraction,Resume containing technical skills,Relevant skills should be detected,Skills detected correctly,PASS
+Job Role Matching,Data Analyst sample resume,Data Analyst should rank highly,Data Analyst ranked #1,PASS
+Job Role Matching,Machine Learning sample resume,Machine Learning Engineer should rank highly,Machine Learning Engineer ranked #1,PASS
+Job Role Matching,Full Stack sample resume,Full Stack Developer should rank highly,Full Stack Developer ranked #1,PASS
+Job Role Matching,AI Engineer sample resume,AI Engineer should rank highly,AI Engineer ranked #1,PASS
+Top 3 Recommendations,Processed resume,Top three suitable roles should be displayed,Top three roles displayed,PASS
+Skill Gap Analysis,Selected target role,Found and missing skills should be displayed,Skills displayed correctly,PASS
+Learning Roadmap,Missing skills,Learning topics should be generated,Weekly roadmap generated,PASS
+Match Score,Processed resume,Match score should be calculated,Match score calculated,PASS
+Visualization,Processed resume,Match scores should be shown in chart,Plotly chart displayed,PASS
+PDF Report,Processed resume,Analysis report should be downloadable,PDF report generated successfully,PASS
+Invalid File,Unsupported file type,Application should reject unsupported file,Unsupported file rejected,PASS
+Responsible AI,Resume containing personal information,Protected attributes should not affect matching,Matching based on job-related skills,PASS

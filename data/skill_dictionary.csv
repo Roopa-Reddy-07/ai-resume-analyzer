@@ -1,0 +1,58 @@
+skill,display_name,category
+python,Python,Programming
+cpp,C++,Programming
+c,C,Programming
+csharp,C#,Programming
+java,Java,Programming
+javascript,JavaScript,Programming
+typescript,TypeScript,Programming
+r,R,Programming
+sql,SQL,Database
+mysql,MySQL,Database
+postgresql,PostgreSQL,Database
+mongodb,MongoDB,Database
+sqlite,SQLite,Database
+pandas,Pandas,Data Science
+numpy,NumPy,Data Science
+matplotlib,Matplotlib,Data Science
+seaborn,Seaborn,Data Science
+excel,Excel,Data Science
+power bi,Power BI,Data Science
+tableau,Tableau,Data Science
+statistics,Statistics,Data Science
+machine learning,Machine Learning,Machine Learning
+scikit-learn,Scikit-learn,Machine Learning
+xgboost,XGBoost,Machine Learning
+random forest,Random Forest,Machine Learning
+regression,Regression,Machine Learning
+classification,Classification,Machine Learning
+tensorflow,TensorFlow,Deep Learning
+pytorch,PyTorch,Deep Learning
+deep learning,Deep Learning,Deep Learning
+cnn,CNN,Deep Learning
+opencv,OpenCV,Computer Vision
+computer vision,Computer Vision,Computer Vision
+yolo,YOLO,Computer Vision
+nlp,NLP,NLP
+natural language processing,Natural Language Processing,NLP
+transformers,Transformers,NLP
+hugging face,Hugging Face,NLP
+llm,LLM,NLP
+rag,RAG,NLP
+html,HTML,Web Development
+html5,HTML5,Web Development
+css,CSS,Web Development
+css3,CSS3,Web Development
+react,React,Web Development
+nodejs,Node.js,Web Development
+flask,Flask,Web Development
+fastapi,FastAPI,Web Development
+rest api,REST API,Web Development
+docker,Docker,Cloud & DevOps
+kubernetes,Kubernetes,Cloud & DevOps
+aws,AWS,Cloud & DevOps
+azure,Azure,Cloud & DevOps
+git,Git,Tools
+github,GitHub,Tools
+linux,Linux,Tools
+vscode,VS Code,Tools
