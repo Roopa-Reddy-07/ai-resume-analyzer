@@ -435,6 +435,15 @@ The project workflow is represented in the architecture diagram below.
 
 ---
 
+## 🚀 Live Demo
+
+The application is deployed using Streamlit.
+
+**Live Application:**  
+https://ai-resume-analyzer-bkukrmjraegv6ppmehrrjc.streamlit.app/
+
+---
+
 ## 📌 Disclaimer
 
 This application is designed for educational and career-guidance purposes.
