@@ -385,18 +385,6 @@ Possible improvements include:
 
 ---
 
-## ⚠️ Disclaimer
-
-This application is intended for educational and career-guidance purposes.
-
-The match score is an estimate based on the skills and text available in the resume and job-role dataset.
-
-It should not be used as an automatic hiring or rejection decision.
-
-Missing keywords do not necessarily mean that a candidate lacks the underlying ability.
-
----
-
 ## 👩‍💻 Project Type
 
 **Student Project / NLP / Machine Learning / Career Guidance Application**
@@ -441,6 +429,17 @@ The application is deployed using Streamlit.
 
 **Live Application:**  
 https://ai-resume-analyzer-bkukrmjraegv6ppmehrrjc.streamlit.app/
+
+---
+
+## 🎥 Project Demonstration
+
+A short demonstration video showing the working application, resume analysis, job-role recommendations, skill-gap analysis, learning roadmap, and report download is available below.
+
+**Demo Video:**  
+[Watch the Project Demonstration]
+https://drive.google.com/file/d/1Rdg4kAE24vT7x2R5Dn4mcryKPWTJbedC/view?usp=sharing
+
 
 ---
 
